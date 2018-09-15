@@ -1,3 +1,2 @@
 mygit test And simple B
-mygit test And simple A
-sss;
+mygit test And simple
