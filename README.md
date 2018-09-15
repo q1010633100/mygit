@@ -1,1 +1,1 @@
-mygit test And simple
+mygit test And simple B
